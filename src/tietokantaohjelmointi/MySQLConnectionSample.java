@@ -19,7 +19,7 @@ public class MySQLConnectionSample {
     private static final String DB_USER = "java";
     private static final String DB_PW = "java";
 
-    
+
     static class Product {
         int id;
         String title;
